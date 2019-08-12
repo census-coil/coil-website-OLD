@@ -1,6 +1,5 @@
 <ul class="coil-team-list">
   {% assign sorted_coil_team = site.data.coil-team %}
-  <!-- {% assign sorted_coil-team = (site.data.coil-team | sort: 'last_name') %} -->
   {% for member in sorted_coil_team %}
     <li class="coil-team-card">
       {% if member.photo %}

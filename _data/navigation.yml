@@ -29,11 +29,7 @@ primary:
       - text: See the Create-a-thons
         href: /accelerate/createathons/
       - text: Get Involved
-        links: 
-          - text: Run a Create-a-thon
-            href: /accelerate/run/
-          - text: Creative Ambassador Program
-            href: /accelerate/creative-ambassadors/
+        href: /accelerate/get-involved/
       - text: Resources
         href: /accelerate/resources/
   - text: Contact Us
