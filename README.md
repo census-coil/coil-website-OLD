@@ -4,6 +4,7 @@ This is the home of Census Open Innovation Lab's website
 ## Getting started
 
 This project is based off of https://github.com/18F/nsf-sbir.git 
+
 Most of the documentation can be found in the NSF **[wiki](https://github.com/18F/nsf-sbir/wiki)**. 
 
 
