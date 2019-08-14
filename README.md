@@ -1,4 +1,4 @@
-# Census Open Innovation Labs Website
+# Census Open Innovation Labs 
 This is the home of Census Open Innovation Lab's website
 
 ## Getting started
